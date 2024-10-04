@@ -2,7 +2,7 @@
 
 Visualizing a year's worth of sales trends for Plato's Pizza, a Greek-inspired pizza spot based in New Jersey. The Tableau dashboard linked [here](https://public.tableau.com/app/profile/dylan.tran1987/viz/PlatosPizzaDashboard_17041495578260/Dashboard) was designed to improve operations and drive more sales.
 
-![Alt text](https://github.com/dyltran/PizzaSales/blob/main/dashboard_preview.png?raw=true)
+![Alt text](dashboard_preview.png)
 
 ## Dataset Description
 
